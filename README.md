@@ -24,7 +24,7 @@ A pixel-perfect, fully responsive front-end clone of the official Divi website b
 - Modular sectioning and semantic HTML
 
 ## 💡 Purpose
-This project is a front-end clone of the [Divi WordPress Theme website](https://www.elegantthemes.com/gallery/divi/), built to enhance layout-building skills, flexbox/grid usage, and professional visual styling using pure HTML and CSS.
+This project is a front-end clone of the [Divi WordPress Theme website](https://www.elegantthemes.com/), built to enhance layout-building skills, flexbox/grid usage, and professional visual styling using pure HTML and CSS.
 
 ## 🚀 How to Use
 1. Clone the repository:
